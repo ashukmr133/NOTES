@@ -1,0 +1,61 @@
+Q) Difference between <div> and <span>.
+
+    <DIV>tag:
+        1.<div> tag is a block level element.
+        2. It is best to attach it to a section of a web page.
+        3. It accept the align attribute.
+        4. This tag should be used to wrap a section, for highlight a section.
+
+    <span> Tag:
+        1.<span> tag is a inline element.
+        2. It is best to attach a CSS to a section of a line in a  webpage.
+        3. It not accept align attribute.
+        4.This tag should be used to wrap any text of thre web page that you want to highlight.
+
+Q)  Difference between class and Id's:
+  
+    <class> tag:
+        1. class keyword is used, start with "." folowed by class_name.
+        2. Multiple class selectors  can be assigned  on the same webpage.
+        3. Multiple class selectors can be used on a single element.
+
+    <id> tag:
+        1. id is assigned which starts with "#" and followed by unique_id_name.
+        2. only one id can be attached  to an element.
+        3. id is unique so it can be assigned to at most one element.
+
+Q)  What are self-closing tags?
+    
+        The self-closing tags are those thags which does not need to be closed manually. which means that there is no saperate cosing tag.
+        ex: <img>, <br>, <hr>, <input> etc.
+        Thses are also called void tag,singleton tag and empty tag.
+
+
+Q) How many headings are there? How and when they are used?
+
+        There are total 6 heading tags. <h1>----<h6>.
+        <h1> is used for main or large size heading.
+        <h2> is used for sub headings.
+        <h3> is used for elements.
+        <h6> is used for the very smallest heading.
+
+
+Q) Difference beyween block- level and inline element?
+     
+        Block-level element: 
+        1. These are those element which start from a new line as the browser automatically add spaces before and afterr the element.
+        2. It takes the whole width of the screen.
+        3. ex:  <hr>,<div></div>,<h1></h1>,etc.
+
+
+        Inline element:
+        1. These are the element which not start with new line.
+        2.n These take only the necessary width.
+        ex:  <span></span>,<img src="" alt="">,<input>,<em></em>,<b></b>
+
+
+Q) What are attribute?
+  
+   attribute provide the additional information about the content.
+   it is palced within rthe the start tag of the element.
+   ex: class_name="value".
